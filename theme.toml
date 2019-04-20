@@ -14,5 +14,10 @@ features = [
 min_version = "0.41"
 
 [author]
+  name = "Panagiotis Simatos"
+  homepage = ""
+
+[original]
   name = "Danielkvist (Daniel Zaragoza)"
   homepage = "https://dkvist.com"
+  repo = "https://github.com/danielkvist/hugo-terrassa-theme"
